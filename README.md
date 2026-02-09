@@ -1,94 +1,87 @@
-<div align="center">
+<!-- 🎉 FUN HERO HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,100:ff8c00&height=200&section=header&text=Vian%20the%20Cyber%20Explorer&fontSize=60&fontColor=ffffff&animation=glow" />
+</p>
 
-<img src="https://raw.githubusercontent.com/vian0001/vian0001/main/banner.png" alt="banner" />
-
-# Jovian Ekasakta (Vian)
-Cyber Security • Networking • Builder
-
-<a href="https://jovian.my.id">Website</a> •
-<a href="https://vian2030.my.id">VIAN2030</a> •
-<a href="https://www.linkedin.com/in/jovian-ekasakta/">LinkedIn</a>
-
-</div>
+<!-- 🎆 FUN TAGLINE (typing effect) -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Comic+Neue&size=28&duration=2500&pause=1000&color=D8BFD8&center=true&vCenter=true&width=780&lines=Living+the+CTF+Adventure!;Networking,+Cybersecurity+%26+Laughs;Building+cool+stuff+and+having+fun!" />
+</p>
 
 ---
 
-Hi mate 👋 I’m an 11th-grade TKJ student from Indonesia, focusing on networking + cybersecurity, building real projects, and leveling up my English.
+## 🌈 About Me
+Hi 👋 I'm **Vian**!  
+TJKT student who loves ✨ networking, 🕵️ cybersecurity, 🤖 coding —  
+and always finds time for fun emojis 😜  
 
-**Now building:** Vian AI Coder + web ecosystem projects (portfolio vibe).  
-**Goal:** solid portfolio + competition-ready skills.
-
----
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=vian0001&show_icons=true&include_all_commits=true" height="165" />
-<img src="https://streak-stats.demolab.com?user=vian0001" height="165" />
-
-</div>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vian0001&layout=compact&langs_count=8" height="165" />
-</div>
+💡 I build things that teach me,  
+🎯 I solve bugs that challenge me,  
+📈 I commit code that surprises me.
 
 ---
 
-## ⚡ GitHub Dashboard (auto-generated)
-<div align="center">
+## 🚀 Quick Fun Stats
+<p align="center">
+  <img width="300" src="https://github-readme-stats.vercel.app/api?username=vian0001&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Fun Stats" />
+  <img width="300" src="https://streak-stats.demolab.com?user=vian0001&theme=radical&hide_border=true" alt="Streak" />
+</p>
 
-<img src="./github-metrics.svg" alt="github metrics" />
-
-</div>
+📊 Favorite stack:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,python,js,html,css,react,nodejs,bash,docker&theme=light" />
+</p>
 
 ---
 
-## 🟩 Snake (dark/light mode)
-<div align="center">
+## 🐍 Snake Fun (Animated)
+<p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
-  <img alt="github-snake" src="dist/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vian0001/vian0001/main/dist/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vian0001/vian0001/main/dist/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/vian0001/vian0001/main/dist/github-contribution-grid-snake.svg" width="600" alt="Snake!!!" />
 </picture>
-</div>
+</p>
+
+✨ If this snake ever eats 🐛, it means I coded something fun!
 
 ---
 
-## 🚀 Featured Projects
-<div align="center">
+## 📌 Featured Fun Projects
+<p align="center">
+  <a href="https://github.com/vian0001/Vibe-coding-gemini-antigravity">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vian0001&repo=Vibe-coding-gemini-antigravity&theme=radical" />
+  </a>
 
-<a href="https://github.com/vian0001/Vibe-coding-gemini-antigravity">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vian0001&repo=Vibe-coding-gemini-antigravity" />
-</a>
+  <a href="https://github.com/vian0001/ai-website-studio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vian0001&repo=ai-website-studio&theme=radical" />
+  </a>
+</p>
 
-<a href="https://github.com/vian0001/ai-website-studio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vian0001&repo=ai-website-studio" />
-</a>
+<p align="center">
+  <a href="https://github.com/vian0001/WEB-CTF">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vian0001&repo=WEB-CTF&theme=radical" />
+  </a>
 
-<a href="https://github.com/vian0001/WEB-CTF">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vian0001&repo=WEB-CTF" />
-</a>
+  <a href="https://github.com/vian0001/web-sql">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vian0001&repo=web-sql&theme=radical" />
+  </a>
+</p>
 
-<a href="https://github.com/vian0001/web-sql">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vian0001&repo=web-sql" />
-</a>
-
-</div>
-
----
-
-## 🌐 Web Ecosystem (from my portfolio)
-- **Vian AI Coder** — build website from prompt
-- **Vian Photo** — photos → interactive links
-- **V Post** — class-focused social feed
-- **Oxford 3000 Vocab** — English progress
-
-(See full list on: https://jovian.my.id)
+✨ Go click them! 😄
 
 ---
 
-## 🧩 Focus right now
-- Networking & Linux (hands-on labs)
-- Web Exploit CTF practice
-- English B1 → B2 → C1 (daily)
+## 💬 Fun Quotes
+> “Keep calm and hack the planet!” 🤓  
+> “If the code compiles, it's a good day!” ☕  
+> “Coffee + code = unstoppable!” 🐱‍💻
 
-If you want collab / sparring CTF, feel free to ping me ✉️
+---
+
+## 🎯 What I’m Learning Now
+- 🛡️ Web Exploitation / CTF Zones  
+- 📡 Networking like a pro  
+- 📘 English fluency boosting daily
+
+Ping me if you want collab 🤙

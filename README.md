@@ -67,6 +67,10 @@
 </p>
 
 ---
+<p align="center">
+  <img src="./github-metrics.svg" />
+</p>
+
 
 ### Now
 - 🔭 Current focus: networking labs, web exploit fundamentals, CTF reps

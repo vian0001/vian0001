@@ -10,7 +10,7 @@
 
 ---
 
-## 🌈 About Me
+##  About Me
 Hi 👋 I'm **Vian**!  
 TJKT student who loves ✨ networking, 🕵️ cybersecurity, 🤖 coding —  
 and always finds time for fun emojis 😜  

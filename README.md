@@ -79,10 +79,10 @@ I want my GitHub to feel like a **digital lab** where every repo shows progress,
 
 ---
 
-## `> CYBER.DECK`
+## `> STACK.AND.TOOLS`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,bash,linux,git,github,vscode" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,bash,linux,git,github,vscode,vite" />
 </p>
 
 <p align="center">
@@ -90,9 +90,12 @@ I want my GitHub to feel like a **digital lab** where every repo shows progress,
   <img src="https://img.shields.io/badge/Cybersecurity-111827?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Web%20Development-7c3aed?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Linux-16a34a?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Always%20Learning-f59e0b?style=for-the-badge" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Currently%20Using-HTML%20%7C%20CSS%20%7C%20JS%20%7C%20TS-0f172a?style=flat-square" />
+  <img src="https://img.shields.io/badge/Tools-Git%20%7C%20GitHub%20%7C%20VSCode%20%7C%20Linux-0f172a?style=flat-square" />
+</p>
 ---
 
 ## `> PORTAL.LINKS`
@@ -164,9 +167,12 @@ I want my GitHub to feel like a **digital lab** where every repo shows progress,
 ## `> TROPHY.CASE`
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vian0001&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=2&column=4" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vian0001&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=2&column=4" alt="GitHub trophies" />
 </p>
 
+<p align="center">
+  <sub>If the trophy widget is temporarily unavailable, it will appear blank for a while.</sub>
+</p>
 ---
 
 ## `> QUEST.LOG`

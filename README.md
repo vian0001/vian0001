@@ -1,87 +1,33 @@
-<!-- 🎉 FUN HERO HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f172a,50:1e293b,100:38bdf8&section=header"/>
+
+<h1 align="center">Hi, I'm Vian 👋</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,100:ff8c00&height=200&section=header&text=Vian%20the%20Cyber%20Explorer&fontSize=60&fontColor=ffffff&animation=glow" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=TKJ+Student+%7C+Networking+%26+Cybersecurity+Enthusiast;Building+cool+projects+while+leveling+up+every+day;Learning+by+doing%2C+breaking%2C+fixing%2C+and+improving;Welcome+to+my+GitHub+universe" alt="Typing SVG" />
 </p>
 
-<!-- 🎆 FUN TAGLINE (typing effect) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Comic+Neue&size=28&duration=2500&pause=1000&color=D8BFD8&center=true&vCenter=true&width=780&lines=Living+the+CTF+Adventure!;Networking,+Cybersecurity+%26+Laughs;Building+cool+stuff+and+having+fun!" />
-</p>
-
----
-
-##  About Me
-Hi 👋 I'm **Vian**!  
-TJKT student who loves ✨ networking, 🕵️ cybersecurity, 🤖 coding —  
-and always finds time for fun emojis 😜  
-
-💡 I build things that teach me,  
-🎯 I solve bugs that challenge me,  
-📈 I commit code that surprises me.
-
----
-
-## 🚀 Quick Fun Stats
-<p align="center">
-  <img width="300" src="https://github-readme-stats.vercel.app/api?username=vian0001&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Fun Stats" />
-  <img width="300" src="https://streak-stats.demolab.com?user=vian0001&theme=radical&hide_border=true" alt="Streak" />
-</p>
-
-📊 Favorite stack:
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,python,js,html,css,react,nodejs,bash,docker&theme=light" />
-</p>
-
----
-
-## 🐍 Snake Fun (Animated)
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vian0001/vian0001/main/dist/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vian0001/vian0001/main/dist/github-contribution-grid-snake.svg" />
-  <img src="https://raw.githubusercontent.com/vian0001/vian0001/main/dist/github-contribution-grid-snake.svg" width="600" alt="Snake!!!" />
-</picture>
-</p>
-
-✨ If this snake ever eats 🐛, it means I coded something fun!
-
----
-
-## 📌 Featured Fun Projects
-<p align="center">
-  <a href="https://github.com/vian0001/Vibe-coding-gemini-antigravity">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vian0001&repo=Vibe-coding-gemini-antigravity&theme=radical" />
+  <a href="https://github.com/vian0001">
+    <img src="https://img.shields.io/badge/GitHub-vian0001-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-
-  <a href="https://github.com/vian0001/ai-website-studio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vian0001&repo=ai-website-studio&theme=radical" />
+  <a href="https://jovian.my.id">
+    <img src="https://img.shields.io/badge/Portfolio-jovian.my.id-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=vian0001&label=Profile%20Views&color=0ea5e9&style=for-the-badge" />
 </p>
-
-<p align="center">
-  <a href="https://github.com/vian0001/WEB-CTF">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vian0001&repo=WEB-CTF&theme=radical" />
-  </a>
-
-  <a href="https://github.com/vian0001/web-sql">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vian0001&repo=web-sql&theme=radical" />
-  </a>
-</p>
-
-✨ Go click them! 😄
 
 ---
 
-## 💬 Fun Quotes
-> “Keep calm and hack the planet!” 🤓  
-> “If the code compiles, it's a good day!” ☕  
-> “Coffee + code = unstoppable!” 🐱‍💻
+## 🚀 About Me
 
----
-
-## 🎯 What I’m Learning Now
-- 🛡️ Web Exploitation / CTF Zones  
-- 📡 Networking like a pro  
-- 📘 English fluency boosting daily
-
-Ping me if you want collab 🤙
+```yaml
+name: Vian
+role: Student Developer
+focus:
+  - Networking
+  - Cybersecurity
+  - Web Development
+mindset:
+  - Learn by doing
+  - Build with curiosity
+  - Improve every day

@@ -1,0 +1,33 @@
+<svg width="1600" height="180" viewBox="0 0 1600 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="footerBg" x1="0" y1="0" x2="1600" y2="180" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#050816" />
+      <stop offset="50%" stop-color="#0F172A" />
+      <stop offset="100%" stop-color="#111827" />
+    </linearGradient>
+
+    <linearGradient id="footerLine" x1="0" y1="0" x2="1600" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0" />
+      <stop offset="50%" stop-color="#38BDF8" stop-opacity="1" />
+      <stop offset="100%" stop-color="#38BDF8" stop-opacity="0" />
+    </linearGradient>
+
+    <filter id="footerBlur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="34" />
+    </filter>
+  </defs>
+
+  <rect width="1600" height="180" rx="24" fill="url(#footerBg)" />
+
+  <circle cx="250" cy="90" r="54" fill="#38BDF8" fill-opacity="0.14" filter="url(#footerBlur)">
+    <animate attributeName="cx" values="250;400;250" dur="10s" repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="1320" cy="100" r="52" fill="#7C3AED" fill-opacity="0.14" filter="url(#footerBlur)">
+    <animate attributeName="cx" values="1320;1180;1320" dur="11s" repeatCount="indefinite" />
+  </circle>
+
+  <path d="M0 110C160 80 320 80 480 110C640 140 800 140 960 110C1120 80 1280 80 1440 110C1520 124 1560 132 1600 138V180H0V110Z" fill="#0B1220" fill-opacity="0.75" />
+
+  <rect x="120" y="54" width="1360" height="2" rx="1" fill="url(#footerLine)" opacity="0.7" />
+</svg>

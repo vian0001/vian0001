@@ -1,0 +1,62 @@
+<svg width="900" height="560" viewBox="0 0 900 560" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="cardBg" x1="0" y1="0" x2="900" y2="560" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0B1220" />
+      <stop offset="100%" stop-color="#111827" />
+    </linearGradient>
+
+    <linearGradient id="glowLine" x1="0" y1="0" x2="900" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0" />
+      <stop offset="50%" stop-color="#38BDF8" stop-opacity="1" />
+      <stop offset="100%" stop-color="#38BDF8" stop-opacity="0" />
+    </linearGradient>
+
+    <filter id="terminalGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="18" />
+    </filter>
+  </defs>
+
+  <rect x="10" y="10" width="880" height="540" rx="26" fill="url(#cardBg)" stroke="#1F2937" stroke-width="2"/>
+
+  <rect x="10" y="10" width="880" height="58" rx="26" fill="#0F172A"/>
+  <circle cx="48" cy="39" r="8" fill="#FB7185"/>
+  <circle cx="76" cy="39" r="8" fill="#FBBF24"/>
+  <circle cx="104" cy="39" r="8" fill="#4ADE80"/>
+
+  <text x="450" y="44" text-anchor="middle" fill="#93C5FD" font-size="20" font-family="monospace">vian@cyberdeck:~</text>
+
+  <rect x="45" y="92" width="810" height="2" rx="1" fill="url(#glowLine)" />
+
+  <text x="54" y="142" fill="#38BDF8" font-size="24" font-family="monospace">$ whoami</text>
+  <text x="54" y="182" fill="#E5E7EB" font-size="22" font-family="monospace">student developer</text>
+
+  <text x="54" y="242" fill="#38BDF8" font-size="24" font-family="monospace">$ cat focus.txt</text>
+  <text x="54" y="282" fill="#A5F3FC" font-size="22" font-family="monospace">networking</text>
+  <text x="54" y="316" fill="#A5F3FC" font-size="22" font-family="monospace">cybersecurity</text>
+  <text x="54" y="350" fill="#A5F3FC" font-size="22" font-family="monospace">web development</text>
+
+  <text x="54" y="410" fill="#38BDF8" font-size="24" font-family="monospace">$ echo $MOTTO</text>
+  <text x="54" y="450" fill="#E9D5FF" font-size="22" font-family="monospace">build - break - fix - repeat</text>
+
+  <text x="54" y="510" fill="#38BDF8" font-size="24" font-family="monospace">$ _</text>
+
+  <rect x="104" y="492" width="12" height="24" fill="#38BDF8">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite" />
+  </rect>
+
+  <circle cx="735" cy="165" r="54" fill="#38BDF8" fill-opacity="0.14" filter="url(#terminalGlow)">
+    <animate attributeName="r" values="54;68;54" dur="6s" repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="770" cy="255" r="46" fill="#7C3AED" fill-opacity="0.14" filter="url(#terminalGlow)">
+    <animate attributeName="r" values="46;58;46" dur="7s" repeatCount="indefinite" />
+  </circle>
+
+  <rect x="660" y="120" width="150" height="18" rx="9" fill="#0F172A" stroke="#334155" />
+  <rect x="660" y="210" width="170" height="18" rx="9" fill="#0F172A" stroke="#334155" />
+  <rect x="660" y="300" width="140" height="18" rx="9" fill="#0F172A" stroke="#334155" />
+
+  <text x="675" y="133" fill="#BFDBFE" font-size="12" font-family="monospace">mode: learning</text>
+  <text x="675" y="223" fill="#C4B5FD" font-size="12" font-family="monospace">status: shipping</text>
+  <text x="675" y="313" fill="#A7F3D0" font-size="12" font-family="monospace">energy: curious</text>
+</svg>

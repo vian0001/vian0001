@@ -1,85 +1,84 @@
-<p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Vian" />
-</p>
+<img src="./assets/header.svg" width="100%" alt="" />
 
-<h1 align="center">Vian</h1>
+```
+jovian@vian ~ $ neofetch
+```
 
-<p align="center">
-  Student developer exploring networking, cybersecurity, Linux, and web development.
-</p>
+```
+  ██╗ ██████╗ ██╗   ██╗██╗ █████╗ ███╗   ██╗
+  ██║██╔═══██╗██║   ██║██║██╔══██╗████╗  ██║
+  ██║██║   ██║██║   ██║██║███████║██╔██╗ ██║
+██╗██║██║   ██║╚██╗ ██╔╝██║██╔══██║██║╚██╗██║
+╚█████║╚██████╔╝ ╚████╔╝ ██║██║  ██║██║ ╚████║
+ ╚════╝ ╚═════╝   ╚═══╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
 
-<p align="center">
-  <a href="https://jovian.my.id">Website</a>
-  ·
-  <a href="https://github.com/vian0001?tab=repositories">Projects</a>
-  ·
-  <a href="https://github.com/vian0001">GitHub</a>
-</p>
+  TKJ Student · Indonesia
+  #1 LKS Cybersecurity · Cyber Jawara Nominee
+```
+
+I'm Vian — I wire up networks, break into CTF boxes, build AI agent
+workflows, and ship web experiments. Currently a TKJ student at
+SMK Dwija Bhakti 01 Jombang, spending most of my time between
+MikroTik labs and VS Code.
+
+---
+
+#### `$ ls ~/focus/`
+
+```
+networking/       ← 60+ MikroTik labs, routing, VLANs, subnetting
+cybersecurity/    ← CTF practice, web exploits, forensics, red team intro
+ai-automation/    ← agent workflows, API tooling, coding assistants
+web/              ← dashboards, portfolios, interactive tools
+```
+
+---
+
+#### `$ ls ~/projects/ --pinned`
+
+| | Project | What it does | |
+|---|---|---|---|
+| 01 | [**Vian AI Coder**](https://vian-code.vercel.app/) | Describe a site in plain text → watch it build | `live` |
+| 02 | [**CTF Toolkit**](https://github.com/vian0001/CTF-tools3) | Pocket workbench for capture-the-flag practice | `active` |
+| 03 | [**FinTrack**](https://github.com/vian0001/FinTraack) | Personal finance tracker | `active` |
+| 04 | [**Portfolio**](https://jovian.my.id) | This is my internet lab — jovian.my.id | `live` |
+
+---
+
+#### `$ cat ~/stack.txt`
+
+```
+languages    python · bash · javascript · typescript · html · css
+networking   mikrotik · tcp/ip · vlans · routing · subnetting · wireshark
+security     ctf · kali · nmap · burp suite · web exploits
+web          next.js · vite · tailwind · vercel
+tools        git · linux · vs code · docker
+```
+
+---
+
+#### `$ cat ~/status.txt`
+
+```diff
++ building    CTF toolkit v3
++ learning    deeper networking + cloud security
++ program     Hack2skills × Google AI · Microsoft Elevate
+```
+
+---
+
+<a href="https://jovian.my.id">
+  <img src="https://img.shields.io/badge/jovian.my.id-000?style=flat-square&logo=vercel&logoColor=white" alt="Website" />
+</a>
+<a href="https://github.com/vian0001?tab=repositories">
+  <img src="https://img.shields.io/badge/all_repos-000?style=flat-square&logo=github&logoColor=white" alt="Repositories" />
+</a>
+<a href="https://linkedin.com/in/jovian-ekasakta">
+  <img src="https://img.shields.io/badge/linkedin-000?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 
 <br />
 
-## About me
+<img src="https://github-readme-stats.vercel.app/api?username=vian0001&show_icons=true&hide_border=true&bg_color=00000000&title_color=38BDF8&icon_color=22C55E&text_color=9CA3AF&hide_title=true&hide_rank=true" width="420" alt="stats" />
 
-I'm a student developer from Indonesia who enjoys understanding how systems work—then building, breaking, and improving them.
-
-Most of my time goes into experimenting with web technologies, networking, cybersecurity, and Linux. This profile documents the projects I build and the things I learn along the way.
-
-## Currently
-
-- Learning networking beyond the fundamentals
-- Exploring cybersecurity and web security
-- Building useful web projects
-- Improving my Linux and terminal workflow
-- Learning Git and open-source development
-
-## Tools and technologies
-
-**Languages**
-
-`HTML` · `CSS` · `JavaScript` · `TypeScript` · `Python` · `Bash`
-
-**Development**
-
-`Vite` · `Git` · `GitHub` · `VS Code`
-
-**Systems**
-
-`Linux` · `Networking` · `Web Security`
-
-<p>
-  <img
-    src="https://skillicons.dev/icons?i=html,css,js,ts,python,bash,linux,git,github,vscode,vite&perline=11"
-    alt="Tools and technologies"
-  />
-</p>
-
-## What you'll find here
-
-My repositories contain personal projects, technical experiments, learning notes, and tools created while exploring different areas of software and infrastructure.
-
-Not every project is perfect or finished. They represent what I understood at the time and how my skills have developed since then.
-
-<p>
-  <a href="https://jovian.my.id">
-    <img
-      src="https://img.shields.io/badge/Portfolio-jovian.my.id-181717?style=flat-square&logo=googlechrome&logoColor=white"
-      alt="Portfolio"
-    />
-  </a>
-  <a href="https://github.com/vian0001?tab=repositories">
-    <img
-      src="https://img.shields.io/badge/View-Repositories-181717?style=flat-square&logo=github&logoColor=white"
-      alt="Repositories"
-    />
-  </a>
-</p>
-
-<br />
-
-<p align="center">
-  <sub>Learning in public, one repository at a time.</sub>
-</p>
-
-<p align="center">
-  <img src="./assets/footer.svg" width="100%" alt="" />
-</p>
+<img src="./assets/header.svg" width="100%" alt="" />

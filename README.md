@@ -13,7 +13,7 @@ jovian@vian ~ $ neofetch
  ╚════╝ ╚═════╝   ╚═══╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
 
   TKJ Student · Indonesia
-  #1 LKS Cybersecurity · Cyber Jawara Nominee
+  #1 LKS Cybersecurity 
 ```
 
 I'm Vian — I wire up networks, break into CTF boxes, build AI agent

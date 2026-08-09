@@ -99,6 +99,12 @@
 <br/>
 
 <div align="center">
+  <img src="https://streak-stats.demolab.com?user=vian0001&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=38BDF8&ring=38BDF8&currStreakLabel=38BDF8" width="98%" alt="GitHub Streak Stats" />
+</div>
+
+<br/>
+
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vian0001&theme=react-dark&hide_border=true" width="98%" alt="Contribution Activity Graph" />
 </div>
 

@@ -12,7 +12,11 @@
       <feComposite in="SourceGraphic" in2="blur" operator="over" />
     </filter>
   </defs>
+
+  <!-- Horizontal Glow Line -->
   <rect x="0" y="7" width="1200" height="2" fill="url(#dividerGrad)" />
+
+  <!-- Center Decorative Node -->
   <g transform="translate(600, 8)">
     <circle cx="0" cy="0" r="4" fill="#22C55E" filter="url(#nodeGlow)" />
     <circle cx="0" cy="0" r="2" fill="#FFFFFF" />

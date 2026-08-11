@@ -140,14 +140,14 @@ Status: Architecting secure developer tooling & AI workflow pipelines
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vian0001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=38BDF8&icon_color=22C55E&text_color=E2E8F0" width="49%" alt="GitHub Overall Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vian0001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E2E8F0" width="49%" alt="Top Languages Breakdown" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=vian0001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=22C55E&text_color=E2E8F0" width="49%" alt="GitHub Overall Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=vian0001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E2E8F0" width="49%" alt="Top Languages Breakdown" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=vian0001&theme=tokyonight&hide_border=true&background=0D1117&border=1E293B&stroke=1E293B&ring=38BDF8&fire=22C55E&currStreakNum=38BDF8&sideNums=E2E8F0&sideLabels=94A3B8&dates=64748B&date_format=j%20M%5B%20Y%5D" width="99%" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vian0001&bg_color=0D1117&color=38BDF8&line=22C55E&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub Contribution Activity Graph" />
 </div>
 
 <br/>

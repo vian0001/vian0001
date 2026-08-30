@@ -1,22 +1,16 @@
-<svg width="1200" height="16" viewBox="0 0 1200 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1200" height="12" viewBox="0 0 1200 12" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="dividerGrad" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
-      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0" />
-      <stop offset="20%" stop-color="#38BDF8" stop-opacity="0.6" />
-      <stop offset="50%" stop-color="#22C55E" stop-opacity="1" />
-      <stop offset="80%" stop-color="#818CF8" stop-opacity="0.6" />
-      <stop offset="100%" stop-color="#818CF8" stop-opacity="0" />
+    <linearGradient id="lineGrad" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#1E293B" stop-opacity="0.1" />
+      <stop offset="20%" stop-color="#334155" stop-opacity="0.7" />
+      <stop offset="50%" stop-color="#38BDF8" stop-opacity="0.8" />
+      <stop offset="80%" stop-color="#334155" stop-opacity="0.7" />
+      <stop offset="100%" stop-color="#1E293B" stop-opacity="0.1" />
     </linearGradient>
-    <filter id="nodeGlow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="3" result="blur" />
-      <feComposite in="SourceGraphic" in2="blur" operator="over" />
-    </filter>
   </defs>
-  <rect x="0" y="7" width="1200" height="2" fill="url(#dividerGrad)" />
-  <g transform="translate(600, 8)">
-    <circle cx="0" cy="0" r="4" fill="#22C55E" filter="url(#nodeGlow)" />
-    <circle cx="0" cy="0" r="2" fill="#FFFFFF" />
-    <path d="M -15 0 L -8 -3 L -8 3 Z" fill="#38BDF8" fill-opacity="0.8" />
-    <path d="M 15 0 L 8 -3 L 8 3 Z" fill="#818CF8" fill-opacity="0.8" />
+  <rect x="0" y="5" width="1200" height="1" fill="url(#lineGrad)" />
+  <g transform="translate(600, 6)">
+    <rect x="-15" y="-3" width="30" height="6" rx="2" fill="#0B111E" stroke="#334155" stroke-width="0.8" />
+    <circle cx="0" cy="0" r="1.5" fill="#38BDF8" />
   </g>
 </svg>

@@ -1,0 +1,50 @@
+<svg width="1200" height="48" viewBox="0 0 1200 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="navBg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#050811" />
+      <stop offset="50%" stop-color="#0B132B" />
+      <stop offset="100%" stop-color="#050811" />
+    </linearGradient>
+    <linearGradient id="navBorder" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1E293B" />
+      <stop offset="50%" stop-color="#38BDF8" stop-opacity="0.6" />
+      <stop offset="100%" stop-color="#1E293B" />
+    </linearGradient>
+  </defs>
+  
+  <style>
+    .font-mono { font-family: 'JetBrains Mono', 'Fira Code', ui-monospace, Menlo, Monaco, Consolas, monospace; }
+  </style>
+
+  <rect x="2" y="2" width="1196" height="44" rx="10" fill="url(#navBg)" stroke="url(#navBorder)" stroke-width="1.2" />
+
+  <!-- Nav Item 1: Personal Lab -->
+  <g transform="translate(40, 14)">
+    <circle cx="6" cy="10" r="3" fill="#38BDF8" />
+    <text x="16" y="14" fill="#F8FAFC" class="font-mono" font-size="12" font-weight="700">01. LAB: <tspan fill="#38BDF8">jovian.my.id</tspan></text>
+  </g>
+
+  <line x1="280" y1="12" x2="280" y2="36" stroke="#1E293B" stroke-width="1" />
+
+  <!-- Nav Item 2: GitHub Repos -->
+  <g transform="translate(320, 14)">
+    <circle cx="6" cy="10" r="3" fill="#22C55E" />
+    <text x="16" y="14" fill="#F8FAFC" class="font-mono" font-size="12" font-weight="700">02. BUILDS: <tspan fill="#22C55E">58+ Repositories</tspan></text>
+  </g>
+
+  <line x1="570" y1="12" x2="570" y2="36" stroke="#1E293B" stroke-width="1" />
+
+  <!-- Nav Item 3: LinkedIn -->
+  <g transform="translate(610, 14)">
+    <circle cx="6" cy="10" r="3" fill="#818CF8" />
+    <text x="16" y="14" fill="#F8FAFC" class="font-mono" font-size="12" font-weight="700">03. NETWORK: <tspan fill="#818CF8">/in/jovian-ekasakta</tspan></text>
+  </g>
+
+  <line x1="880" y1="12" x2="880" y2="36" stroke="#1E293B" stroke-width="1" />
+
+  <!-- Nav Item 4: Direct Transmission -->
+  <g transform="translate(920, 14)">
+    <circle cx="6" cy="10" r="3" fill="#F59E0B" />
+    <text x="16" y="14" fill="#F8FAFC" class="font-mono" font-size="12" font-weight="700">04. COMMS: <tspan fill="#F59E0B">DIRECT SECURE</tspan></text>
+  </g>
+</svg>

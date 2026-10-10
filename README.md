@@ -92,6 +92,47 @@ Currently prepping for LKS Cybersecurity and building developer tools on the sid
   </tr>
 </table>
 
+### AI Engineering & Evaluation
+
+<table>
+  <tr>
+    <td align="center" width="76">
+      <a href="https://artificialanalysis.ai/" target="_blank">
+        <img src="./assets/artificial-analysis.svg" width="34" height="34" alt="Artificial Analysis" />
+      </a><br/>
+      <sub>Art. Analysis</sub>
+    </td>
+    <td align="center" width="76">
+      <img src="https://cdn.simpleicons.org/googlegemini" width="34" height="34" alt="Gemini" /><br/>
+      <sub>Gemini</sub>
+    </td>
+    <td align="center" width="76">
+      <img src="https://cdn.simpleicons.org/googlecloud" width="34" height="34" alt="Google Cloud" /><br/>
+      <sub>Google Cloud</sub>
+    </td>
+    <td align="center" width="76">
+      <img src="https://cdn.simpleicons.org/ollama/white" width="34" height="34" alt="Ollama" /><br/>
+      <sub>Ollama</sub>
+    </td>
+    <td align="center" width="76">
+      <img src="https://cdn.simpleicons.org/huggingface" width="34" height="34" alt="Hugging Face" /><br/>
+      <sub>Hugging Face</sub>
+    </td>
+    <td align="center" width="76">
+      <img src="https://cdn.simpleicons.org/langchain" width="34" height="34" alt="LangChain" /><br/>
+      <sub>LangChain</sub>
+    </td>
+    <td align="center" width="76">
+      <img src="https://cdn.simpleicons.org/pytorch" width="34" height="34" alt="PyTorch" /><br/>
+      <sub>PyTorch</sub>
+    </td>
+    <td align="center" width="76">
+      <img src="https://cdn.simpleicons.org/python" width="34" height="34" alt="Python" /><br/>
+      <sub>Python</sub>
+    </td>
+  </tr>
+</table>
+
 ### DevOps & Development Tools
 
 <table>

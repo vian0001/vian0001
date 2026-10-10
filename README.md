@@ -170,7 +170,11 @@ Currently prepping for LKS Cybersecurity and building developer tools on the sid
   </tr>
 </table>
 
-### Security & Pentesting Tools
+### Security & CTF Specialization
+
+> **Primary Roles:** `Web Exploitation` · `Cryptography` · `Digital Forensics`
+
+#### Red Team & Offensive Security
 
 <table>
   <tr>
@@ -179,24 +183,59 @@ Currently prepping for LKS Cybersecurity and building developer tools on the sid
       <sub>Burp Suite</sub>
     </td>
     <td align="center" width="76">
-      <img src="https://cdn.simpleicons.org/wireshark" width="34" height="34" alt="Wireshark" /><br/>
-      <sub>Wireshark</sub>
+      <img src="https://cdn.simpleicons.org/metasploit" width="34" height="34" alt="Metasploit" /><br/>
+      <sub>Metasploit</sub>
     </td>
     <td align="center" width="76">
       <img src="https://cdn.simpleicons.org/hashcat" width="34" height="34" alt="Hashcat" /><br/>
       <sub>Hashcat</sub>
     </td>
     <td align="center" width="76">
-      <img src="https://cdn.simpleicons.org/metasploit" width="34" height="34" alt="Metasploit" /><br/>
-      <sub>Metasploit</sub>
+      <img src="https://cdn.simpleicons.org/owasp" width="34" height="34" alt="OWASP" /><br/>
+      <sub>OWASP</sub>
     </td>
     <td align="center" width="76">
-      <img src="https://cdn.simpleicons.org/postman" width="34" height="34" alt="Postman" /><br/>
-      <sub>Postman</sub>
+      <img src="https://cdn.simpleicons.org/kalilinux" width="34" height="34" alt="Kali Linux" /><br/>
+      <sub>Kali Linux</sub>
+    </td>
+    <td align="center" width="76">
+      <img src="https://cdn.simpleicons.org/torbrowser" width="34" height="34" alt="Tor" /><br/>
+      <sub>Tor</sub>
     </td>
     <td align="center" width="76">
       <img src="https://cdn.simpleicons.org/gnubash" width="34" height="34" alt="Bash" /><br/>
       <sub>Bash</sub>
+    </td>
+  </tr>
+</table>
+
+#### Blue Team & Defensive / Forensics
+
+<table>
+  <tr>
+    <td align="center" width="76">
+      <img src="https://cdn.simpleicons.org/wireshark" width="34" height="34" alt="Wireshark" /><br/>
+      <sub>Wireshark</sub>
+    </td>
+    <td align="center" width="76">
+      <img src="https://cdn.simpleicons.org/virustotal" width="34" height="34" alt="VirusTotal" /><br/>
+      <sub>VirusTotal</sub>
+    </td>
+    <td align="center" width="76">
+      <img src="https://cdn.simpleicons.org/snort" width="34" height="34" alt="Snort" /><br/>
+      <sub>Snort</sub>
+    </td>
+    <td align="center" width="76">
+      <img src="https://cdn.simpleicons.org/splunk" width="34" height="34" alt="Splunk" /><br/>
+      <sub>Splunk</sub>
+    </td>
+    <td align="center" width="76">
+      <img src="https://cdn.simpleicons.org/elastic" width="34" height="34" alt="Elastic" /><br/>
+      <sub>Elastic</sub>
+    </td>
+    <td align="center" width="76">
+      <img src="https://cdn.simpleicons.org/paloaltonetworks" width="34" height="34" alt="Palo Alto" /><br/>
+      <sub>Palo Alto</sub>
     </td>
   </tr>
 </table>

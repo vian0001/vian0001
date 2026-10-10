@@ -30,14 +30,176 @@ Currently prepping for LKS Cybersecurity and building developer tools on the sid
 
 ---
 
-### stack
+### Frontend Development
 
-```
-networking    mikrotik routeros, cisco ios, ospf, bgp, vlan, wireguard, wireshark
-security      burp suite, metasploit, nmap, ghidra, owasp top 10, forensics
-dev           python, typescript, next.js, react, tailwind, bash
-infra         docker, kali linux, debian, vercel, supabase, google cloud
-```
+<table>
+  <tr>
+    <td align="center" width="76">
+      <img src="https://cdn.simpleicons.org/html5" width="34" height="34" alt="HTML5" /><br/>
+      <sub>HTML5</sub>
+    </td>
+    <td align="center" width="76">
+      <img src="https://cdn.simpleicons.org/css" width="34" height="34" alt="CSS3" /><br/>
+      <sub>CSS3</sub>
+    </td>
+    <td align="center" width="76">
+      <img src="https://cdn.simpleicons.org/javascript" width="34" height="34" alt="JavaScript" /><br/>
+      <sub>JavaScript</sub>
+    </td>
+    <td align="center" width="76">
+      <img src="https://cdn.simpleicons.org/react" width="34" height="34" alt="React" /><br/>
+      <sub>React</sub>
+    </td>
+    <td align="center" width="76">
+      <img src="https://cdn.simpleicons.org/nextdotjs/white" width="34" height="34" alt="Next.js" /><br/>
+      <sub>Next.js</sub>
+    </td>
+    <td align="center" width="76">
+      <img src="https://cdn.simpleicons.org/tailwindcss" width="34" height="34" alt="Tailwind" /><br/>
+      <sub>Tailwind</sub>
+    </td>
+    <td align="center" width="76">
+      <img src="https://cdn.simpleicons.org/threedotjs/white" width="34" height="34" alt="Three.js" /><br/>
+      <sub>Three.js</sub>
+    </td>
+    <td align="center" width="76">
+      <img src="https://cdn.simpleicons.org/greensock" width="34" height="34" alt="GSAP" /><br/>
+      <sub>GSAP</sub>
+    </td>
+  </tr>
+</table>
+
+### Backend Development
+
+<table>
+  <tr>
+    <td align="center" width="76">
+      <img src="https://cdn.simpleicons.org/php" width="34" height="34" alt="PHP" /><br/>
+      <sub>PHP</sub>
+    </td>
+    <td align="center" width="76">
+      <img src="https://cdn.simpleicons.org/laravel" width="34" height="34" alt="Laravel" /><br/>
+      <sub>Laravel</sub>
+    </td>
+    <td align="center" width="76">
+      <img src="https://cdn.simpleicons.org/python" width="34" height="34" alt="Python" /><br/>
+      <sub>Python</sub>
+    </td>
+    <td align="center" width="76">
+      <img src="https://cdn.simpleicons.org/xampp" width="34" height="34" alt="XAMPP" /><br/>
+      <sub>XAMPP</sub>
+    </td>
+  </tr>
+</table>
+
+### DevOps & Development Tools
+
+<table>
+  <tr>
+    <td align="center" width="76">
+      <img src="https://cdn.simpleicons.org/git" width="34" height="34" alt="Git" /><br/>
+      <sub>Git</sub>
+    </td>
+    <td align="center" width="76">
+      <img src="https://cdn.simpleicons.org/github/white" width="34" height="34" alt="GitHub" /><br/>
+      <sub>GitHub</sub>
+    </td>
+    <td align="center" width="76">
+      <img src="https://cdn.simpleicons.org/gitlab" width="34" height="34" alt="GitLab" /><br/>
+      <sub>GitLab</sub>
+    </td>
+    <td align="center" width="76">
+      <img src="https://cdn.simpleicons.org/docker" width="34" height="34" alt="Docker" /><br/>
+      <sub>Docker</sub>
+    </td>
+    <td align="center" width="76">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="34" height="34" alt="VS Code" /><br/>
+      <sub>VS Code</sub>
+    </td>
+    <td align="center" width="76">
+      <img src="https://cdn.simpleicons.org/jetbrains" width="34" height="34" alt="JetBrains" /><br/>
+      <sub>JetBrains</sub>
+    </td>
+    <td align="center" width="76">
+      <img src="https://cdn.simpleicons.org/npm" width="34" height="34" alt="NPM" /><br/>
+      <sub>NPM</sub>
+    </td>
+    <td align="center" width="76">
+      <img src="https://cdn.simpleicons.org/vercel/white" width="34" height="34" alt="Vercel" /><br/>
+      <sub>Vercel</sub>
+    </td>
+    <td align="center" width="76">
+      <img src="https://cdn.simpleicons.org/cloudflare" width="34" height="34" alt="Cloudflare" /><br/>
+      <sub>Cloudflare</sub>
+    </td>
+  </tr>
+</table>
+
+### Network & Infrastructure
+
+<table>
+  <tr>
+    <td align="center" width="76">
+      <img src="https://cdn.simpleicons.org/mikrotik/white" width="34" height="34" alt="MikroTik" /><br/>
+      <sub>MikroTik</sub>
+    </td>
+    <td align="center" width="76">
+      <img src="https://cdn.simpleicons.org/cisco" width="34" height="34" alt="Cisco" /><br/>
+      <sub>Cisco</sub>
+    </td>
+    <td align="center" width="76">
+      <img src="https://cdn.simpleicons.org/wireshark" width="34" height="34" alt="Wireshark" /><br/>
+      <sub>Wireshark</sub>
+    </td>
+    <td align="center" width="76">
+      <img src="https://cdn.simpleicons.org/wireguard" width="34" height="34" alt="WireGuard" /><br/>
+      <sub>WireGuard</sub>
+    </td>
+    <td align="center" width="76">
+      <img src="https://cdn.simpleicons.org/debian" width="34" height="34" alt="Debian" /><br/>
+      <sub>Debian</sub>
+    </td>
+    <td align="center" width="76">
+      <img src="https://cdn.simpleicons.org/kalilinux" width="34" height="34" alt="Kali Linux" /><br/>
+      <sub>Kali Linux</sub>
+    </td>
+    <td align="center" width="76">
+      <img src="https://cdn.simpleicons.org/linux" width="34" height="34" alt="Linux" /><br/>
+      <sub>Linux</sub>
+    </td>
+  </tr>
+</table>
+
+### Security & Pentesting Tools
+
+<table>
+  <tr>
+    <td align="center" width="76">
+      <img src="https://cdn.simpleicons.org/burpsuite" width="34" height="34" alt="Burp Suite" /><br/>
+      <sub>Burp Suite</sub>
+    </td>
+    <td align="center" width="76">
+      <img src="https://cdn.simpleicons.org/wireshark" width="34" height="34" alt="Wireshark" /><br/>
+      <sub>Wireshark</sub>
+    </td>
+    <td align="center" width="76">
+      <img src="https://cdn.simpleicons.org/hashcat" width="34" height="34" alt="Hashcat" /><br/>
+      <sub>Hashcat</sub>
+    </td>
+    <td align="center" width="76">
+      <img src="https://cdn.simpleicons.org/metasploit" width="34" height="34" alt="Metasploit" /><br/>
+      <sub>Metasploit</sub>
+    </td>
+    <td align="center" width="76">
+      <img src="https://cdn.simpleicons.org/postman" width="34" height="34" alt="Postman" /><br/>
+      <sub>Postman</sub>
+    </td>
+    <td align="center" width="76">
+      <img src="https://cdn.simpleicons.org/gnubash" width="34" height="34" alt="Bash" /><br/>
+      <sub>Bash</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 

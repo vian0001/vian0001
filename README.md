@@ -4,17 +4,21 @@
 
 <sub>
 
-[jovian.my.id](https://jovian.my.id) · [repositories](https://github.com/vian0001?tab=repositories) · [linkedin](https://linkedin.com/in/jovian-ekasakta) · [jovianekasakta01@gmail.com](mailto:jovianekasakta01@gmail.com)
+[jovian.my.id](https://jovian.my.id) · [repositories](https://github.com/vian0001?tab=repositories) · [linkedin](https://linkedin.com/in/jovian-ekasakta) · [jovianekasakta02@gmail.com](mailto:jovianekasakta02@gmail.com)
 
 </sub>
 
 ---
 
-SMK student (TKJ) from East Java. I build network infrastructure, do CTF
-competitions, and ship web tools. I like understanding how things work at the
-lowest level — from MikroTik routing tables to how TSMC prints transistors.
+Final-year vocational student (TKJ) from East Java, specializing in network infrastructure, Linux systems, and cybersecurity. 
 
-Currently prepping for LKS Cybersecurity and building developer tools on the side.
+I focus on understanding how systems work from the lowest level up — from MikroTik routing tables and packet headers to application-level security and hardware architecture.
+
+### highlights
+
+- 🥇 **1st Place Champion** — LKS (Lomba Kompetensi Siswa) Cyber Security / IT Network Systems (City Level, 2026)
+- 📰 **Featured on National News (Medcom.id)** — Recognized for regional vocational cyber security achievement
+- 🌐 **60+ Enterprise Network Labs** — Hands-on MikroTik RouterOS & Cisco IOS topologies (OSPF, VLAN, Firewall, QoS)
 
 ---
 
@@ -29,152 +33,6 @@ Currently prepping for LKS Cybersecurity and building developer tools on the sid
 **[worthdeck](https://github.com/vian0001/worthdeck)** — deck builder and presentation tool. `typescript`
 
 ---
-
-### Frontend Development
-
-<table>
-  <tr>
-    <td align="center" width="76">
-      <img src="https://cdn.simpleicons.org/html5" width="34" height="34" alt="HTML5" /><br/>
-      <sub>HTML5</sub>
-    </td>
-    <td align="center" width="76">
-      <img src="https://cdn.simpleicons.org/css" width="34" height="34" alt="CSS3" /><br/>
-      <sub>CSS3</sub>
-    </td>
-    <td align="center" width="76">
-      <img src="https://cdn.simpleicons.org/javascript" width="34" height="34" alt="JavaScript" /><br/>
-      <sub>JavaScript</sub>
-    </td>
-    <td align="center" width="76">
-      <img src="https://cdn.simpleicons.org/react" width="34" height="34" alt="React" /><br/>
-      <sub>React</sub>
-    </td>
-    <td align="center" width="76">
-      <img src="https://cdn.simpleicons.org/nextdotjs/white" width="34" height="34" alt="Next.js" /><br/>
-      <sub>Next.js</sub>
-    </td>
-    <td align="center" width="76">
-      <img src="https://cdn.simpleicons.org/tailwindcss" width="34" height="34" alt="Tailwind" /><br/>
-      <sub>Tailwind</sub>
-    </td>
-    <td align="center" width="76">
-      <img src="https://cdn.simpleicons.org/threedotjs/white" width="34" height="34" alt="Three.js" /><br/>
-      <sub>Three.js</sub>
-    </td>
-    <td align="center" width="76">
-      <img src="https://cdn.simpleicons.org/greensock" width="34" height="34" alt="GSAP" /><br/>
-      <sub>GSAP</sub>
-    </td>
-  </tr>
-</table>
-
-### Backend Development
-
-<table>
-  <tr>
-    <td align="center" width="76">
-      <img src="https://cdn.simpleicons.org/php" width="34" height="34" alt="PHP" /><br/>
-      <sub>PHP</sub>
-    </td>
-    <td align="center" width="76">
-      <img src="https://cdn.simpleicons.org/laravel" width="34" height="34" alt="Laravel" /><br/>
-      <sub>Laravel</sub>
-    </td>
-    <td align="center" width="76">
-      <img src="https://cdn.simpleicons.org/python" width="34" height="34" alt="Python" /><br/>
-      <sub>Python</sub>
-    </td>
-    <td align="center" width="76">
-      <img src="https://cdn.simpleicons.org/xampp" width="34" height="34" alt="XAMPP" /><br/>
-      <sub>XAMPP</sub>
-    </td>
-  </tr>
-</table>
-
-### AI Engineering & Evaluation
-
-<table>
-  <tr>
-    <td align="center" width="76">
-      <a href="https://artificialanalysis.ai/" target="_blank">
-        <img src="./assets/artificial-analysis.svg" width="34" height="34" alt="Artificial Analysis" />
-      </a><br/>
-      <sub>Art. Analysis</sub>
-    </td>
-    <td align="center" width="76">
-      <img src="https://cdn.simpleicons.org/googlegemini" width="34" height="34" alt="Gemini" /><br/>
-      <sub>Gemini</sub>
-    </td>
-    <td align="center" width="76">
-      <img src="https://cdn.simpleicons.org/googlecloud" width="34" height="34" alt="Google Cloud" /><br/>
-      <sub>Google Cloud</sub>
-    </td>
-    <td align="center" width="76">
-      <img src="https://cdn.simpleicons.org/ollama/white" width="34" height="34" alt="Ollama" /><br/>
-      <sub>Ollama</sub>
-    </td>
-    <td align="center" width="76">
-      <img src="https://cdn.simpleicons.org/huggingface" width="34" height="34" alt="Hugging Face" /><br/>
-      <sub>Hugging Face</sub>
-    </td>
-    <td align="center" width="76">
-      <img src="https://cdn.simpleicons.org/langchain" width="34" height="34" alt="LangChain" /><br/>
-      <sub>LangChain</sub>
-    </td>
-    <td align="center" width="76">
-      <img src="https://cdn.simpleicons.org/pytorch" width="34" height="34" alt="PyTorch" /><br/>
-      <sub>PyTorch</sub>
-    </td>
-    <td align="center" width="76">
-      <img src="https://cdn.simpleicons.org/python" width="34" height="34" alt="Python" /><br/>
-      <sub>Python</sub>
-    </td>
-  </tr>
-</table>
-
-### DevOps & Development Tools
-
-<table>
-  <tr>
-    <td align="center" width="76">
-      <img src="https://cdn.simpleicons.org/git" width="34" height="34" alt="Git" /><br/>
-      <sub>Git</sub>
-    </td>
-    <td align="center" width="76">
-      <img src="https://cdn.simpleicons.org/github/white" width="34" height="34" alt="GitHub" /><br/>
-      <sub>GitHub</sub>
-    </td>
-    <td align="center" width="76">
-      <img src="https://cdn.simpleicons.org/gitlab" width="34" height="34" alt="GitLab" /><br/>
-      <sub>GitLab</sub>
-    </td>
-    <td align="center" width="76">
-      <img src="https://cdn.simpleicons.org/docker" width="34" height="34" alt="Docker" /><br/>
-      <sub>Docker</sub>
-    </td>
-    <td align="center" width="76">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="34" height="34" alt="VS Code" /><br/>
-      <sub>VS Code</sub>
-    </td>
-    <td align="center" width="76">
-      <img src="https://cdn.simpleicons.org/jetbrains" width="34" height="34" alt="JetBrains" /><br/>
-      <sub>JetBrains</sub>
-    </td>
-    <td align="center" width="76">
-      <img src="https://cdn.simpleicons.org/npm" width="34" height="34" alt="NPM" /><br/>
-      <sub>NPM</sub>
-    </td>
-    <td align="center" width="76">
-      <img src="https://cdn.simpleicons.org/vercel/white" width="34" height="34" alt="Vercel" /><br/>
-      <sub>Vercel</sub>
-    </td>
-    <td align="center" width="76">
-      <img src="https://cdn.simpleicons.org/cloudflare" width="34" height="34" alt="Cloudflare" /><br/>
-      <sub>Cloudflare</sub>
-    </td>
-  </tr>
-</table>
 
 ### Network & Infrastructure
 
@@ -281,11 +139,134 @@ Currently prepping for LKS Cybersecurity and building developer tools on the sid
   </tr>
 </table>
 
+### DevOps & Systems Tools
+
+<table>
+  <tr>
+    <td align="center" width="76">
+      <img src="https://cdn.simpleicons.org/git" width="34" height="34" alt="Git" /><br/>
+      <sub>Git</sub>
+    </td>
+    <td align="center" width="76">
+      <img src="https://cdn.simpleicons.org/github/white" width="34" height="34" alt="GitHub" /><br/>
+      <sub>GitHub</sub>
+    </td>
+    <td align="center" width="76">
+      <img src="https://cdn.simpleicons.org/gitlab" width="34" height="34" alt="GitLab" /><br/>
+      <sub>GitLab</sub>
+    </td>
+    <td align="center" width="76">
+      <img src="https://cdn.simpleicons.org/docker" width="34" height="34" alt="Docker" /><br/>
+      <sub>Docker</sub>
+    </td>
+    <td align="center" width="76">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="34" height="34" alt="VS Code" /><br/>
+      <sub>VS Code</sub>
+    </td>
+    <td align="center" width="76">
+      <img src="https://cdn.simpleicons.org/jetbrains" width="34" height="34" alt="JetBrains" /><br/>
+      <sub>JetBrains</sub>
+    </td>
+    <td align="center" width="76">
+      <img src="https://cdn.simpleicons.org/npm" width="34" height="34" alt="NPM" /><br/>
+      <sub>NPM</sub>
+    </td>
+    <td align="center" width="76">
+      <img src="https://cdn.simpleicons.org/vercel/white" width="34" height="34" alt="Vercel" /><br/>
+      <sub>Vercel</sub>
+    </td>
+    <td align="center" width="76">
+      <img src="https://cdn.simpleicons.org/cloudflare" width="34" height="34" alt="Cloudflare" /><br/>
+      <sub>Cloudflare</sub>
+    </td>
+  </tr>
+</table>
+
+### Web Engineering & Tools
+
+<table>
+  <tr>
+    <td align="center" width="76">
+      <img src="https://cdn.simpleicons.org/html5" width="34" height="34" alt="HTML5" /><br/>
+      <sub>HTML5</sub>
+    </td>
+    <td align="center" width="76">
+      <img src="https://cdn.simpleicons.org/css" width="34" height="34" alt="CSS3" /><br/>
+      <sub>CSS3</sub>
+    </td>
+    <td align="center" width="76">
+      <img src="https://cdn.simpleicons.org/javascript" width="34" height="34" alt="JavaScript" /><br/>
+      <sub>JavaScript</sub>
+    </td>
+    <td align="center" width="76">
+      <img src="https://cdn.simpleicons.org/react" width="34" height="34" alt="React" /><br/>
+      <sub>React</sub>
+    </td>
+    <td align="center" width="76">
+      <img src="https://cdn.simpleicons.org/nextdotjs/white" width="34" height="34" alt="Next.js" /><br/>
+      <sub>Next.js</sub>
+    </td>
+    <td align="center" width="76">
+      <img src="https://cdn.simpleicons.org/tailwindcss" width="34" height="34" alt="Tailwind" /><br/>
+      <sub>Tailwind</sub>
+    </td>
+    <td align="center" width="76">
+      <img src="https://cdn.simpleicons.org/python" width="34" height="34" alt="Python" /><br/>
+      <sub>Python</sub>
+    </td>
+    <td align="center" width="76">
+      <img src="https://cdn.simpleicons.org/php" width="34" height="34" alt="PHP" /><br/>
+      <sub>PHP</sub>
+    </td>
+    <td align="center" width="76">
+      <img src="https://cdn.simpleicons.org/laravel" width="34" height="34" alt="Laravel" /><br/>
+      <sub>Laravel</sub>
+    </td>
+  </tr>
+</table>
+
+### AI Tool Orchestration & Evaluation
+
+<table>
+  <tr>
+    <td align="center" width="76">
+      <a href="https://artificialanalysis.ai/" target="_blank">
+        <img src="./assets/artificial-analysis.svg" width="34" height="34" alt="Artificial Analysis" />
+      </a><br/>
+      <sub>Art. Analysis</sub>
+    </td>
+    <td align="center" width="76">
+      <img src="https://cdn.simpleicons.org/googlegemini" width="34" height="34" alt="Gemini" /><br/>
+      <sub>Gemini</sub>
+    </td>
+    <td align="center" width="76">
+      <img src="https://cdn.simpleicons.org/googlecloud" width="34" height="34" alt="Google Cloud" /><br/>
+      <sub>Google Cloud</sub>
+    </td>
+    <td align="center" width="76">
+      <img src="https://cdn.simpleicons.org/ollama/white" width="34" height="34" alt="Ollama" /><br/>
+      <sub>Ollama</sub>
+    </td>
+    <td align="center" width="76">
+      <img src="https://cdn.simpleicons.org/huggingface" width="34" height="34" alt="Hugging Face" /><br/>
+      <sub>Hugging Face</sub>
+    </td>
+    <td align="center" width="76">
+      <img src="https://cdn.simpleicons.org/langchain" width="34" height="34" alt="LangChain" /><br/>
+      <sub>LangChain</sub>
+    </td>
+    <td align="center" width="76">
+      <img src="https://cdn.simpleicons.org/pytorch" width="34" height="34" alt="PyTorch" /><br/>
+      <sub>PyTorch</sub>
+    </td>
+  </tr>
+</table>
+
 ---
 
 <sub>
 
-LKS Cybersecurity #1 · Cyber Jawara nominee · Google Cloud AI Generation fellow · 60+ mikrotik labs
+LKS Cybersecurity #1 · Cyber Jawara Nominee · 60+ MikroTik & Cisco Labs · Featured on Medcom.id
 
 </sub>
 
